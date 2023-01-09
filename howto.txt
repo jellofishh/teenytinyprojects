@@ -1,0 +1,11 @@
+rockpaperscissor.py-
+3 choices; rock, paper, scissors
+2 players
+
+rock + scissors --> loss
+scissors + paper --> loss
+paper + rock --> loss
+
+rock and rock is null
+scissors and scissors is null
+paper and paper is null
